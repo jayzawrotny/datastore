@@ -6,9 +6,10 @@ See also:
 - clj::clojure.core/re-find
 - clj::clojure.core/re-seq
 - clj::clojure.core/re-pattern
-- clj::clojure.core/clojure.string/replace
-- clj::clojure.core/clojure.string/replace-first
 - clj::clojure.core/re-matcher
 - clj::clojure.core/re-groups
+- clj::clojure.string/replace
+- clj::clojure.string/replace-first
+
 
 See docs for function `subs`, section 'Memory use warning'.
